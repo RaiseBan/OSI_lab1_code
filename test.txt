@@ -1,0 +1,9 @@
+C:\Users\user\CLionProjects\ALGO\substring_search.exe C:\Users\user\CLionProjects\ALGO\hello.txt "vpopa" 1000
+
+C:\Users\user\CLionProjects\ALGO\substring_search.exe 100000 50000 1000
+
+
+
+
+g++ -O0 -o substring_search substring_search.cpp
+g++ -O0 -o binary_search binary_search.cpp
